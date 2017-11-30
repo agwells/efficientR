@@ -21,3 +21,5 @@ rsconnect
 land.sqlite3
 data/
 voc_voyages.xlsx
+packrat/lib*/
+packrat/src/

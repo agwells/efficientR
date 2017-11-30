@@ -3,3 +3,5 @@
 ^extdata$
 .nojekyll
 .travis.yml
+^packrat/
+^\.Rprofile$
